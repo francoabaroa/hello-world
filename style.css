@@ -1,0 +1,156 @@
+#sugar {
+
+border-color: #60061E;
+	 border-width: 9px;
+	 border-style: solid;
+
+	  position: center;
+	 text-align: center;
+	 background-color: #B1FF1E;
+	 color:#60061E;
+
+}
+
+
+body {
+
+
+	background-image: url("green.jpg");
+	background-color: rgb(207,242,5);
+}
+
+.wow #wowza {
+
+
+ 
+	 
+	 margin-left:auto;
+	 margin-right:auto;
+	 
+	 font-family: silom;
+	 position: center;
+	 text-align: center
+
+
+
+}
+
+
+}
+
+.wow {
+
+	
+	
+	
+	 
+
+
+
+	 
+}
+
+
+.wowz {
+
+	
+	 
+	 border-color: black;
+	 border-width: 2px;
+	 border-style: solid;
+	 
+	 margin-left:auto;
+	 margin-right:auto;
+	 background-color: #60061E;
+	 font-family: silom;
+	 position: center;
+	 text-align: center
+
+
+
+}
+
+#todolist {
+
+
+	list-style: none;
+	color:#60061E;
+	background-color: #B1FF1E;
+	font-size: 30px;
+	padding-top:5px;
+
+
+
+}
+
+
+
+h2 {
+
+ 	text-align: center;
+ 	position: center;
+ 	font-family: silom;
+ 	font-size: 36px;
+
+
+
+
+
+}
+
+
+.delete {
+	font-family: silom;
+	font-size: 8px;
+	background-color:#60061E;
+	margin-bottom: 2px;
+	color:white;
+	
+
+
+}
+
+
+
+#new-text {
+
+	 width: 500px;
+	 height:40px;
+
+
+	 border-color: #60061E;
+	 border-width: 9px;
+	 border-style: solid;
+	 font-size: 30px;
+	 margin-left:auto;
+	 margin-right:auto;
+	 color:#60061E;
+	 background-color:#B1FF1E;
+	 font-family: silom;
+	 position: center;
+	 text-align: center
+
+
+
+
+}
+
+#add {
+
+
+	 background-color:#60061E;
+	font-family: silom;
+	font-size: 30px;
+	text-align: center;
+ 	position: center;
+ 	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	
+
+
+	 
+}
+
+
+
